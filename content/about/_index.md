@@ -23,7 +23,7 @@ meetups pasados y en este sitio web. La parte de discusión del evento NUNCA se 
 conceptos básicos de Bitcoin para extraer el máximo valor de nuestros eventos Socráticos.
 
 Por favor, contacta a los organizadores si deseas presentar en un futuro evento Socrático o tienes un tema
-recomendado para discusión: `bitdevsba@gmail.com` o encuentra el PR en el
+recomendado para discusión: bitdevsba@gmail.com o encuentra el PR en el
 y agrega un comentario.
 
 Hay diferentes requisitos para las presentaciones dependiendo de la
