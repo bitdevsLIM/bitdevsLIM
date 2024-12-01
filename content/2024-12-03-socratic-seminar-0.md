@@ -11,6 +11,8 @@ meetup_id = "0zn1yjzh"
 
 20:00hrs Seminario Socratico y revisaremos varios temas de Bitcoin
 
+21:00hrs Cierre
+
 
 
 ### Lugar
