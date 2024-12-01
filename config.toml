@@ -1,8 +1,8 @@
 # The URL the site will be built for
 base_url = "https://nashbitdevs.org"
 
-title = "NashBitDevs"
-description = "NashBitDevs is a community in the Nashville area for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+title = "BitDevsBA"
+description = "BitDevsBA es una comunidad en Buenos aires para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos y software relacionados."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -23,6 +23,6 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
-github = "https://github.com/nashbitdevs/nashbitdevs.org"
-meetup = "https://www.meetup.com/bitcoinpark/"
-discord = "https://discord.gg/v2NmVZC63q"
+github = "https://github.com/BitDevsBA/bitdevsBA"
+meetup = "https://lu.ma/"
+discord = ""

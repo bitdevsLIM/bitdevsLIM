@@ -1,23 +1,20 @@
 +++
 title = "find topics"
-description = "Where to Find Topics for Future Seminars"
+description = "Dónde Encontrar Temas para Futuros Seminarios"
 +++
 
-#### Where to Find Topics for Future Seminars
+#### Dónde Encontrar Temas para Futuros Seminarios
+A continuación hay una lista de lugares sugeridos para encontrar temas interesantes para
+seminarios socráticos para discutir en los meetups de BitDev BA. Si tienes otros para agregar a la lista, háznoslo saber.
 
-Below is a list of suggested places to find interesting socratic seminar topics to discuss at 
-NashBitDevs meetups. If you have any others to add to the list let us know. 
-
-### Mailing Lists, News Letters, Q&As
-
+### Listas de Correo, Boletines, Preguntas y Respuestas
   - [delving bitcoin](https://delvingbitcoin.org/)
-  - [bitcoin-dev mailing list](https://groups.google.com/g/bitcoindev)
-  - [lightning-dev mailing list](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
+  - [lista de correo bitcoin-dev](https://groups.google.com/g/bitcoindev)
+  - [lista de correo lightning-dev](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
   - [Bitcoin Optech](https://bitcoinops.org/)
   - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/)
 
-### Git Repositories
-
+### Repositorios Git
   - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
   - [Core Lightning](https://github.com/ElementsProject/lightning)
   - [Lightning Network Daemon](https://github.com/lightningnetwork/lnd)
@@ -26,8 +23,7 @@ NashBitDevs meetups. If you have any others to add to the list let us know.
   - [Lightning Dev Kit](https://github.com/orgs/lightningdevkit)
   - [Bitcoin Dev Kit](https://github.com/bitcoindevkit)
 
-### Other Meetups
- 
+### Otros Meetups
   - [Bitcoin Core Review Club](https://bitcoincore.reviews/)
   - [BitDevs NYC](https://bitdevs.org)
   - [BitDevs SF](https://www.sfbitcoindevs.org/)
@@ -36,8 +32,7 @@ NashBitDevs meetups. If you have any others to add to the list let us know.
   - [BitDevs Sydney](https://www.meetup.com/Bitcoin_Sydney/)
   - [BitDevs Berlin](https://bitdevs.berlin/)
   - [BitDevs Los Angeles](https://bitdevsla.org)
-  
-### [Freenode IRC](https://freenode.net/)
 
+### [Freenode IRC](https://freenode.net/)
   - #bitcoin-core-pr-reviews
-  - #bitcore-core-dev  
+  - #bitcore-core-dev
