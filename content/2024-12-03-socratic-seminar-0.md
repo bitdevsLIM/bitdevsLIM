@@ -146,4 +146,3 @@ por las bebidas y el espacio.
 - [Bitcoin Balance API](https://bitcoin-balance-api.com/)
 - [Fabric, DNS resolver for spaces](https://github.com/spacesprotocol/fabric)
 - [Battle of Galen Erso](https://github.com/bitcoin-dev-project/battle-of-galen-erso)
-- [Libbitcoin for Core people](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222)
