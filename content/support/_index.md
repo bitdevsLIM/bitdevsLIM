@@ -3,22 +3,24 @@ title = "Supporters"
 description = "Our supporters"
 +++
 
-Special thanks to our supporters whose donations help pay for venue rental, pizza, drinks and other meetup expenses.
+Un agradecimiento especial a nuestros colaboradores.
 
-If you're like to be a supporter by making a donation please send a message to `notmandatory_` or `matthewramsden` on the [bitcoin park discord](https://discord.gg/v2NmVZC63q).
 <br>
 <br>
 
-<a href="https://bitcoinpark.co/">
- <img src="/bitcoinpark_logo.jpg" alt="Bitcoin Park Logo" style="width:20%;height:20%;border:0;">
+<a href="https://lacrypta.ar/">
+ <img src="/LaCrypta_Logo_Negro.jpg" alt="La Crypta Logo" style="width:20%;height:20%;border:0;">
 </a>
 
-[Bitcoin Park](https://bitcoinpark.co/) - A community supported campus in Nashville focused on grassroots bitcoin adoption and a home for bitcoiners to work, learn, collaborate, and build.
+
+[La Crypta](https://lacrypta.ar/) - La Crypta es una organización argentina dedicada al desarrollo, la educación y el
+intercambio de conocimientos dentro de los ecosistemas Bitcoin y Nostr.
 <br>
 <br>
 
-<a href="https://bitrefill.com/">
-<img src="/bitrefill_logo.png" alt="Bitrefill Logo" style="width:20%;height:20%;border:0;">
+<a href="https://libreriadesatoshi.com/">
+<img src="/libre_sato_logo.png" alt="Libreria de satoshi Logo" style="width:20%;height:20%;border:0;">
 </a>
 
-[Bitrefill](https://bitrefill.com/) - Buy gift cards for anything under the sun. No account necessary.
+[Libreria de Satoshi](https://libreriadesatoshi.com/) - La Librería de Satoshi es una iniciativa educativa que busca formar contribuidores técnicos de Bitcoin en
+América Latina y el Caribe a través de cursos y seminarios en español.

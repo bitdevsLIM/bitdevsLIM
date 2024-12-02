@@ -1,36 +1,32 @@
 +++
-title = "About"
-description = "All about this site"
+title = "about"
+description = "Todo sobre este sitio"
 +++
 
-NashBitDevs is inspired by the original [BitDevs NYC](https://bitdevs.org) to 
-help grow a community in the Nashville area of those interested in discussing 
-and participating in the research and development of Bitcoin and related 
-protocols and software. You can be well versed with or new to the topics, all are welcome. 
-Be advised: discussion will be technical.
+BitDev BA está inspirado en el original [BitDevs NYC](https://bitdevs.org) para ayudar a desarrollar una
+comunidad en el área de Buenos Aires de personas interesadas en discutir y participar en la investigación y desarrollo de
+Bitcoin y protocolos y software relacionados. Puedes estar bien versado o ser nuevo en los temas, todos son bienvenidos.
+Ten en cuenta: la discusión será técnica.
 
-### Socratic Seminars
+### Seminarios Socráticos
+Nuestros [Seminarios Socráticos] mensuales están formateados para fomentar el debate,
+el intercambio de información y la discusión animada. En las semanas previas al evento, los miembros del meetup recopilan
+temas de discusión de diversas fuentes: pull requests en repositorios git populares (por ejemplo, Bitcoin Core, lnd, c-lightning,
+Joinmarket, Elements Alpha y Electrum), papers de investigación, posts técnicos en blogs, logs de IRC, monitores de red y más. Para
+completar la reunión, los miembros presentan proyectos de código abierto, empresas, investigaciones y otros materiales relevantes.
+Sigue una sección de feedback y preguntas y respuestas.
 
-Our monthly [Socratic Seminar] events are formatted to foster debate, information
-sharing and lively discussion. In the weeks preceding the event, discussion
-topics are collated by meetup members from a variety of sources: pull requests
-in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. To complete the meeting, members present open source
-projects, companies, research and other relevant materials. A feedback and Q&A
-section follow. After the event the group gathers at a nearby restaurant to
-socialize.
+Se publicará una página del evento en este sitio antes del meetup que describe los temas de discusión.
 
-An event page will be posted on this site prior to the meetup which outlines discussion topics.
-Archives of discussion topics and presentations can be found in the event
-descriptions of past meetups and on this web site. The discussion portion of 
-the event is NEVER recorded. It is recommended that you have a firm grasp of 
-the basics of Bitcoin in order to extract the most value from our Socratic events.
+Los archivos de temas de discusión y presentaciones se pueden encontrar en las descripciones de eventos de
+meetups pasados y en este sitio web. La parte de discusión del evento NUNCA se graba. Se recomienda tener un conocimiento firme de los
+conceptos básicos de Bitcoin para extraer el máximo valor de nuestros eventos Socráticos.
 
-Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: `contact @ nashbitdevs.org` or find the PR on the 
-[nashbitdevs.org github repo](https://github.com/NashBitDevs/nashbitdevs.org/) and add a comment. 
-There are different requirements for presentations depending on the nature of the project. Check our 
-list of suggestions for [where to find topics](/about/find-topics) for future seminars.
+Por favor, contacta a los organizadores si deseas presentar en un futuro evento Socrático o tienes un tema
+recomendado para discusión: bitdevsba@gmail.com o encuentra el PR en el
+y agrega un comentario.
 
-[Socratic Seminar]: https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar
+Hay diferentes requisitos para las presentaciones dependiendo de la
+naturaleza del proyecto. Revisa nuestra lista de sugerencias para [dónde encontrar temas](/about/find-topics) para futuros seminarios.
+
+[Seminarios Socráticos]: https://es.wikipedia.org/wiki/M%C3%A9todo_socr%C3%A1tico#Seminario_socr%C3%A1tico

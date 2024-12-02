@@ -1,5 +1,4 @@
-{% extends "index.html" %}
-{% block content %}
+{% extends "index.html" %} {% block content %}
 <section>
     <div class="Post">
         <h1 class="Post-title">{{ page.title }}</h1>
@@ -7,16 +6,25 @@
             <span>{{ page.date }}</span>
             {% if page.extra.meetup_id %}
             <span>
-                <a href="{{ config.extra.meetup }}/events/{{ page.extra.meetup_id }}" target="_blank" rel="noopener nofollow">
-                    Link to Meetup
+                <a
+                    href="{{ config.extra.meetup }}/{{ page.extra.meetup_id }}"
+                    target="_blank"
+                    rel="noopener nofollow"
+                >
+                    Link to Event
                 </a>
             </span>
             {% endif %}
         </div>
         {% if page.extra.youtube_id %}
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.extra.youtube_id }}"
-                frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube-nocookie.com/embed/{{ page.extra.youtube_id }}"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+        ></iframe>
         {% endif %}
 
         <div class="Post-content">{{ page.content | safe }}</div>
