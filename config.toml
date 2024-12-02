@@ -23,6 +23,6 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
-github = "https://github.com/BitDevsBA/bitdevsBA"
+github = "https://github.com/BitDevsBA/bitdevsBA.github.io"
 meetup = "https://lu.ma/"
 discord = ""
