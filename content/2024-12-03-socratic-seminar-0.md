@@ -1,5 +1,5 @@
 +++
-title = "BitdevsBA Seminario Socratico #0"
+title = "BitdevsBA Seminario Socratico #1 " 
 template = "post.html"
 [extra]
 meetup_id = "0zn1yjzh"
@@ -7,41 +7,50 @@ meetup_id = "0zn1yjzh"
 
 ### Cronograma
 
-19:00hrs Birras
-
-20:00hrs Seminario Socratico y revisaremos varios temas de Bitcoin
-
-21:00hrs Cierre
-
+19:00hrs Birras y empanadas por Librería de Satoshi
+19:30hrs Seminario Socrático por Librería de Satoshi
+20:30hrs Cierre y Networking
 
 
 ### Lugar
-
 Este evento se llevará a cabo en **La Crypta**:
+Villanueva 1367. Buenos Aires, Argentina. 
 
-Villanueva 1367
-Buenos Aires, Argentina
-
+Gracias por otorgar el lugar.
+Si quieres que BitDevs sea en tu espacio:  recruit@b4os.dev
 
 [Map](https://www.google.com.ar/maps/place/Villanueva+1367,+C1426BMI+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5647265,-58.4457132,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb5c8870cdc23:0xc945d369aa39b3e0!8m2!3d-34.5647309!4d-58.4431383!16s%2Fg%2F11sp4dwkl3?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
 
+### Sugerencias
+- Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda. 
+Respeta los diferentes pensamientos e ideas.
 
+- Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min, como máximo.
+
+### Recordatorios 
+No fotos, no videos, pero audio recoding = OK
+Deja el espacio limpio
+
+
+### Qué es un seminario socrático de BitDevs? 
+
+El seminario socrático de BitDev o Bitcoin developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento. 
+Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en repositorios populares de proyectos como Bitcoin. 
+
+
+- Los Seminarios Socráticos se celebran bajo la Regla de **[Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)**: 
+  - Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.
+  - Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.
+
+
+Source https://bitdevs.org/running-a-great-socratic-seminar/
 
 ### Anuncios
 
-Estamos muy contentos de presentar nuestro primer [Seminario Socratico](/about)! Un agradecimiento especial a nuestros
-sponsors [La Crypta](https://lacrypta.ar/) y [Libreria de Satoshi](https://libreriadesatoshi.com/)
-por las bebidas y el espacio.
-
-### Recordatorio
-
-   - No fotos o videos.
-   - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-   - Mantengamos el espacio limpio.
-   - Puedes sugerir temas para el próximo Seminario Socratico! [¿Dónde encontrar temas?](/about/find-topics)
-
-### Seminario Socratico
-
+Estamos muy contentos de presentar seminario socrático #1 [Seminario Socratico](/about)! 
+Un agradecimiento especial a nuestros
+sponsors [Libreria de Satoshi](https://libreriadesatoshi.com/)
+por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
 
 #### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
@@ -106,10 +115,9 @@ por las bebidas y el espacio.
 - [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
 - [Disclosure of hindered block propagation due to stalling peers](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
 
-#### Proyectos
-- [Alby: NWC Isolated Connections](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-hub/app-store/subaccounts-friends-and-family)
-- [Mostro: Key management](https://mostro.network/protocol/key_management.html)
-
+#### Proyectos presentaciones: 
+- [Alby: NWC Isolated Connections](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-hub/app-store/subaccounts-friends-and-family) por JCL
+- [Mostro: Key management](https://mostro.network/protocol/key_management.html) 
 
 #### Financiación
 
