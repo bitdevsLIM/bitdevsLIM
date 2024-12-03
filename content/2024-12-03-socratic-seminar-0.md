@@ -8,7 +8,9 @@ meetup_id = "0zn1yjzh"
 ### Cronograma
 
 19:00hrs Birras y empanadas por Librería de Satoshi
+
 19:30hrs Seminario Socrático por Librería de Satoshi
+
 20:30hrs Cierre y Networking
 
 
@@ -29,6 +31,7 @@ Respeta los diferentes pensamientos e ideas.
 
 ### Recordatorios
 No fotos, no videos, pero audio recoding = OK
+
 Deja el espacio limpio
 
 
@@ -39,8 +42,8 @@ Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en 
 
 
 - Los Seminarios Socráticos se celebran bajo la Regla de **[Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)**:
-  - Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.
-  - Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.
+- Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.
+- Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.
 
 
 Source https://bitdevs.org/running-a-great-socratic-seminar/
@@ -57,12 +60,14 @@ por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
 - [clarkmoody.com](https://bitcoin.clarkmoody.com/dashboard/)
 
 #### Eventos y Noticias
-- [bitcoin++: Florianópolis](https://btcplusplus.dev/conf/floripa)
-- [TABConf7](https://6.tabconf.com/)
+- [Satconf](https://www.satsconf.com.br/)
+- [Labitconf](https://www.labitconf.com/)
 - [Telekom tests Bitcoin mining with surplus energy](https://www.telekom.com/en/media/media-information/archive/test-bitcoin-mining-infrastructure-for-surplus-energy-1082684)
 - [Namecheap processes 1.1m transactions with BTCPay](https://blog.btcpayserver.org/case-study-namecheap/)
 - [Swiss Canton of Bern Explores Bitcoin Mining to Optimize Energy Use](https://bitcoinnews.com/mining/canton-of-bern-switzerland-bitcoin-mining/)
 - [Russia Officially Recognizes Bitcoin as Property, Introduces New Tax Laws](https://bitcoinnews.com/adoption/russia-bitcoin-recognized-property/)
+- [Bitcoin Core PR Review Club](https://bitcoincore.reviews/31397)
+- [bitcoin++: Florianópolis](https://btcplusplus.dev/conf/floripa)
 
 #### Lanzamientos
 - [Bitcoin Core 28.0](https://bitcoincore.org/en/releases/28.0/)
@@ -79,8 +84,6 @@ por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
 #### Minería
 - [Introducing Proto: Building the future of bitcoin mining hardware](https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/)
 
-#### Estado
-- [Bitcoin Act 2024](https://x.com/TFTC21/status/1859636488281186736)
 
 #### Lightning
 - [LN Summit 2024 Notes & Summary/Commentary](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
@@ -116,8 +119,7 @@ por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
 - [Disclosure of hindered block propagation due to stalling peers](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
 
 #### Proyectos presentaciones:
-- [Alby: NWC Isolated Connections](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-hub/app-store/subaccounts-friends-and-family) por JCL
-- [Mostro: Key management](https://mostro.network/protocol/key_management.html)
+- [Alby: NWC Isolated Connections](https://guides.getalby.com/user-guide/alby-account-and-browser-extension/alby-hub/app-store/subaccounts-friends-and-family) por JPL
 - [La Wallet: Lightning Domain](https://github.com/lightning-domains/lightning-domains?tab=readme-ov-file)
 - [La Wallet: Badges and profile](https://github.com/lawalletio/la-wallet-monorepo/pull/53)
 
@@ -132,21 +134,6 @@ por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
 - [B4OS](https://www.libreriadesatoshi.com/b4os)
 - [Chaincode Labs: Bitcoin and Lightning Protocol Development Education](https://learning.chaincode.com/)
 
-
-#### Repositorios
-- rust-bitcoin: [Support Testnet4 Network #2945](https://github.com/rust-bitcoin/rust-bitcoin/pull/2945)
-- rust-bitcoin: [Add version three variant to transaction version #3450](https://github.com/rust-bitcoin/rust-bitcoin/pull/3450)
-- rust-bitcoin: [Add the ChaCha20Poly1305 AEAD algorithm #2960](https://github.com/rust-bitcoin/rust-bitcoin/pull/2960)
-- bitcoin-core/secp256k1: [Add module "musig" that implements MuSig2 multi-signatures (BIP 327) #1479](https://github.com/bitcoin-core/secp256k1/pull/1479)
-- bitcoin-core: [Drop miniupnp dependency #31130](https://github.com/bitcoin/bitcoin/pull/31130)
-- bitcoin-core: [Remove mempoolfullrbf #30592](https://github.com/bitcoin/bitcoin/pull/30592)
-- core-lightning: [pay: Remember and update channel_hints across payments #7494](https://github.com/ElementsProject/lightning/pull/7494)
-- lnd: [cmd: allow deterministic macaroon derivation with lncli #9172](https://github.com/lightningnetwork/lnd/pull/9172)
-- Eclair: [Add support for RBF-ing splice transactions #2925](https://github.com/ACINQ/eclair/pull/2925)
-- LDK: [Add the core functionality required to resolve Human Readable Names #3179](https://github.com/lightningdevkit/rust-lightning/pull/3179)
-- LDK: [Re-broadcast channel_announcements every six blocks for a week #3360](https://github.com/lightningdevkit/rust-lightning/pull/3360)
-- LDK: [Include invoice requests in async payment onions](https://github.com/lightningdevkit/rust-lightning/pull/3207)
-- LDK: [Support paying directly to Human Readable Names using bLIP 32 #3283](https://github.com/lightningdevkit/rust-lightning/pull/3283)
 
 #### Recursos
 
