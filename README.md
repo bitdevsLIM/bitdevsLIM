@@ -1,4 +1,4 @@
-# NashBitDevs
+# BitdevsBA
 
 Simple Zola site for hosting all of the links from meetups past and future.
 
