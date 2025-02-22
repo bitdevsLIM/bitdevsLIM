@@ -11,48 +11,45 @@ meetup_id = "evt_Lb2qmuRre8ucg7B7"
 
 19:30hrs Seminario Socrático por Librería de Satoshi
 
-20:30hrs Cierre y Networking
+21:30hrs Cierre y Networking
 
 
 ### Lugar
-Este evento se llevará a cabo en **Espacio Bitcoin**
+Este evento se llevará a cabo en **Espacio Cultural Bitcoin** Gracias por apoyar el evento! 
 
-Gracias por otorgar el lugar.
-Si quieres que BitDevs sea en tu espacio:  recruit@b4os.dev
+Si quieres que BitDevs sea en tu espacio: recruit@b4os.dev
 
-[Map](https://www.google.com.ar/maps/place/Villanueva+1367,+C1426BMI+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5647265,-58.4457132,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb5c8870cdc23:0xc945d369aa39b3e0!8m2!3d-34.5647309!4d-58.4431383!16s%2Fg%2F11sp4dwkl3?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)
+[Cómo llegar:](https://www.google.com/maps/place/Espacio+Cultural+Bitcoin/@-34.5961172,-58.3758662,17z/data=!3m1!4b1!4m6!3m5!1s0x95bccaca9519acd9:0x40f35fdebe477281!8m2!3d-34.5961172!4d-58.3732859!16s%2Fg%2F11bw82ly07?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D)
 
 ### Sugerencias
 - Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
 Respeta los diferentes pensamientos e ideas.
 
-- Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min, como máximo.
+- Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min como máximo.
 
 ### Recordatorios
 No fotos, no videos, pero audio recoding = OK
 
-Deja el espacio limpio
+Deja el espacio limpio.
 
 
 ### Qué es un seminario socrático de BitDevs?
 
-El seminario socrático de BitDev o Bitcoin developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
-Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en repositorios populares de proyectos como Bitcoin.
+El seminario socrático de BitDevs o Bitcoin Developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
+Los temas provienen de varias fuentes, como [Bitcoin Optech](https://bitcoinops.org/en/publications/), [Delving Bitcoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/), [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev/), [Murch's Twitter](https://twitter.com/murchandamus), [Bitcoin PR Review Club](https://bitcoincore.reviews/), y pull requests en repositorios populares de proyectos Bitcoin.
 
 
 - Los Seminarios Socráticos se celebran bajo la Regla de **[Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)**:
 - Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.
 - Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escucho la información, ni la de ningún otro participante.
 
-
-Source https://bitdevs.org/running-a-great-socratic-seminar/
+[Source](https://bitdevs.org/running-a-great-socratic-seminar/)
 
 ### Anuncios
 
-Estamos muy contentos de presentar seminario socrático #1 [Seminario Socratico](/about)!
-Un agradecimiento especial a nuestros
-sponsors [Libreria de Satoshi](https://libreriadesatoshi.com/)
-por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
+Estamos muy contentos de presentar seminario socrático #2 [Seminario Socrático](/about)!
+Un agradecimiento especial a nuestros sponsors [Libreria de Satoshi](https://libreriadesatoshi.com/)
+por las bebidas y comida y por confiarnos estas instalaciones a [Espacio Cultural Bitcoin](https://www.espacioculturalbitcoin.com/).
 
 #### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
@@ -81,6 +78,8 @@ por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
 - [Bitcoin core v28.1](https://www.nobsbitcoin.com/bitcoin-core-v28-1/)
 - [Proton wallet available (build with BDK BTW)](https://proton.me/blog/wallet-launch)
 - [Sparrow 2.1.0 exorcizing Python from the HWI implementation and PSBT v2 support](https://github.com/sparrowwallet/sparrow/releases/tag/2.1.0)
+- [Wallet Scrutiny](https://walletscrutiny.com/)
+  
 
 #### Bitcoin
 
