@@ -86,6 +86,7 @@ por las bebidas y comida y por confiarnos estas instalaciones a [Espacio Cultura
 - [Cluster mempool: introduce TxGraph](https://bitcoincore.reviews/31363)
 - [NUMS (Nothing Up My Sleeve) keys](https://delvingbitcoin.org/t/unspendable-keys-in-descriptors/304/32)
 - [BOSD - Bitcoin Output Script Descriptor](https://github.com/alpenlabs/bitcoin-bosd)
+- [Investigating mining pool behavior before fixing a Bitcoin Core bug](https://delvingbitcoin.org/t/analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue/1351)
 
 #### Lightning
 
