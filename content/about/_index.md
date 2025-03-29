@@ -3,8 +3,8 @@ title = "about"
 description = "Todo sobre este sitio"
 +++
 
-BitDev BA está inspirado en el original [BitDevs NYC](https://bitdevs.org) para ayudar a desarrollar una
-comunidad en el área de Buenos Aires de personas interesadas en discutir y participar en la investigación y desarrollo de
+BitDevs LIM está inspirado en el original [BitDevs NYC](https://bitdevs.org) para ayudar a desarrollar una
+comunidad en el área de Lima con personas interesadas en discutir y participar en la investigación y desarrollo de
 Bitcoin y protocolos y software relacionados. Puedes estar bien versado o ser nuevo en los temas, todos son bienvenidos.
 Ten en cuenta: la discusión será técnica.
 
@@ -23,8 +23,8 @@ meetups pasados y en este sitio web. La parte de discusión del evento NUNCA se 
 conceptos básicos de Bitcoin para extraer el máximo valor de nuestros eventos Socráticos.
 
 Por favor, contacta a los organizadores si deseas presentar en un futuro evento Socrático o tienes un tema
-recomendado para discusión: bitdevsba@gmail.com o encuentra el PR en el
-y agrega un comentario.
+recomendado para discusión: bitdevslim@gmail.com o encuentra el PR en el
+y agrega un comentario. b
 
 Hay diferentes requisitos para las presentaciones dependiendo de la
 naturaleza del proyecto. Revisa nuestra lista de sugerencias para [dónde encontrar temas](/about/find-topics) para futuros seminarios.

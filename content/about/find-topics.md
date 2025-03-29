@@ -5,7 +5,7 @@ description = "Dónde Encontrar Temas para Futuros Seminarios"
 
 #### Dónde Encontrar Temas para Futuros Seminarios
 A continuación hay una lista de lugares sugeridos para encontrar temas interesantes para
-seminarios socráticos para discutir en los meetups de BitDev BA. Si tienes otros para agregar a la lista, háznoslo saber.
+seminarios socráticos para discutir en los meetups de BitDev LIM. Si tienes otros para agregar a la lista, háznoslo saber.
 
 ### Listas de Correo, Boletines, Preguntas y Respuestas
   - [delving bitcoin](https://delvingbitcoin.org/)
