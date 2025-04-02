@@ -38,7 +38,7 @@ Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en 
 - Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escuchó la información, ni la de ningún otro participante.
 
 
-Source https://bitdevs.org/running-a-great-socratic-seminar/
+[Source](https://bitdevs.org/running-a-great-socratic-seminar/)
 
 #### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
