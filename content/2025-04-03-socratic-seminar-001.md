@@ -7,7 +7,7 @@ meetup_id = "0zn1yjzh"
 
 ### Cronograma
 
-20:00hrs Seminario Socrático por Librería de Satoshi
+20:00hrs Seminario Socrático
 
 20:30hrs Cierre y Networking
 
@@ -79,7 +79,7 @@ A finales de enero de 2025, El Salvador retiró a Bitcoin su condición de moned
 ### 4. Integración de Stablecoins en la Red Lightning
 
 **Descripción:**
-LQWD Technologies anunció la expansión de sus capacidades para incluir stablecoins en la red Lightning de Bitcoin, permitiendo transacciones instantáneas y de bajo costo con monedas estables, lo que podría ampliar significativamente las aplicaciones de Lightning Network en comercio y finanzas descentralizadas. (https://lqwdtech.com/2025/lqwd-technologies-announces-expansion-of-stablecoin-capabilities-and-welcomes-tethers-integration-with-lightning-network/)
+LQWD Technologies anunció la expansión de sus capacidades para incluir stablecoins en la red Lightning de Bitcoin, permitiendo transacciones instantáneas y de bajo costo con monedas estables, lo que podría ampliar significativamente las aplicaciones de Lightning Network en comercio y finanzas descentralizadas. (https://lqwdtech.com/2025/lqwd-technologies-announces-expansion-of-stablecoin-capabilities-and-welcomes-tethers-integration-with-lightning-network/Z)
 
 **Puntos de discusión:**
 - Beneficios y desafíos de integrar stablecoins en Lightning Network.
