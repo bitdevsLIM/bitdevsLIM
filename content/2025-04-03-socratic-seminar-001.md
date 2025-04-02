@@ -63,7 +63,7 @@ En marzo de 2025, el presidente de EE. UU., Donald Trump, firmó una orden ejecu
 
 **Puntos de discusión:**
 - Implicaciones geopolíticas y económicas de que los gobiernos acumulen Bitcoin.
-- Riesgos y beneficios de esta estrategia para los países.
+- Riesgos y beneficios de esta estrategia para los países y personas que utilizan Bitcoin.
 - Impacto en la percepción global de Bitcoin como activo de reserva.
 
 ### 3. El Salvador Revierte el Estatus Legal de Bitcoin
