@@ -13,9 +13,9 @@ meetup_id = "0zn1yjzh"
 
 
 ### Lugar
-Este evento se llevará a cabo en https://meet.jit.si/bitdevs-lima-001:
+Este evento se llevará a cabo en (https://meet.jit.si/bitdevs-lima-001):
 
-Si quieres que BitDevs sea en tu espacio:  40230@pm.me
+Si quieres que BitDevs sea en tu espacio:  [40230@pm.me](mailto:40230@pm.me)
 
 ### Sugerencias
 - Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
@@ -59,7 +59,7 @@ Cashu es un protocolo de ecash de código abierto que permite transacciones priv
 ### 2. Reservas Estratégicas de Bitcoin por Gobiernos
 
 **Descripción:**
-En marzo de 2025, el presidente de EE. UU., Donald Trump, firmó una orden ejecutiva para establecer una reserva estratégica de Bitcoin, utilizando bitcoins confiscados en procedimientos legales. (https://markets.businessinsider.com/news/currencies/donald-trump-strategic-cryptocurrency-reserve-executive-order-bitcoin-price-2025-3?utm_source=copy-link&utm_medium=referral&utm_content=topbar)
+En marzo de 2025, el presidente de EE. UU., Donald Trump, firmó una orden ejecutiva para establecer una reserva estratégica de Bitcoin, utilizando bitcoins confiscados en procedimientos legales. [Fuente](https://markets.businessinsider.com/news/currencies/donald-trump-strategic-cryptocurrency-reserve-executive-order-bitcoin-price-2025-3?utm_source=copy-link&utm_medium=referral&utm_content=topbar)
 
 **Puntos de discusión:**
 - Implicaciones geopolíticas y económicas de que los gobiernos acumulen Bitcoin.
@@ -69,7 +69,7 @@ En marzo de 2025, el presidente de EE. UU., Donald Trump, firmó una orden ejecu
 ### 3. El Salvador Revierte el Estatus Legal de Bitcoin
 
 **Descripción:**
-A finales de enero de 2025, El Salvador retiró a Bitcoin su condición de moneda de curso legal, casi tres años después de su adopción inicial, bajo presión del Fondo Monetario Internacional para asegurar un crédito de 1.400 millones de dólares. (https://elpais.com/america/2025-01-30/bukele-da-marcha-atras-y-retira-al-bitcoin-la-condicion-de-moneda-legal-en-el-salvador.html)
+A finales de enero de 2025, El Salvador retiró a Bitcoin su condición de moneda de curso legal, casi tres años después de su adopción inicial, bajo presión del Fondo Monetario Internacional para asegurar un crédito de 1.400 millones de dólares. [Fuente](https://elpais.com/america/2025-01-30/bukele-da-marcha-atras-y-retira-al-bitcoin-la-condicion-de-moneda-legal-en-el-salvador.html)
 
 **Puntos de discusión:**
 - Factores que llevaron a esta decisión.
@@ -79,7 +79,7 @@ A finales de enero de 2025, El Salvador retiró a Bitcoin su condición de moned
 ### 4. Integración de Stablecoins en la Red Lightning
 
 **Descripción:**
-LQWD Technologies anunció la expansión de sus capacidades para incluir stablecoins en la red Lightning de Bitcoin, permitiendo transacciones instantáneas y de bajo costo con monedas estables, lo que podría ampliar significativamente las aplicaciones de Lightning Network en comercio y finanzas descentralizadas. (https://lqwdtech.com/2025/lqwd-technologies-announces-expansion-of-stablecoin-capabilities-and-welcomes-tethers-integration-with-lightning-network/Z)
+LQWD Technologies anunció la expansión de sus capacidades para incluir stablecoins en la red Lightning de Bitcoin, permitiendo transacciones instantáneas y de bajo costo con monedas estables, lo que podría ampliar significativamente las aplicaciones de Lightning Network en comercio y finanzas descentralizadas. [Fuente](https://lqwdtech.com/2025/lqwd-technologies-announces-expansion-of-stablecoin-capabilities-and-welcomes-tethers-integration-with-lightning-network/Z)
 
 **Puntos de discusión:**
 - Beneficios y desafíos de integrar stablecoins en Lightning Network.
