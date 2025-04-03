@@ -89,4 +89,4 @@ LQWD Technologies anunció la expansión de sus capacidades para incluir stablec
 - Consideraciones de seguridad y regulación en el uso de stablecoins en Lightning.
 
 ### 5. Vulnerabilidad en LND (Excessive Failback Bug)
-https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493
+[https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493](https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493)
