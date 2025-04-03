@@ -2,7 +2,7 @@
 title = "BitdevsLIM Seminario Socratico #1 "
 template = "post.html"
 [extra]
-meetup_id = "0zn1yjzh"
+meetup_id = "1l3r34qp"
 +++
 
 ### Cronograma
@@ -13,17 +13,19 @@ meetup_id = "0zn1yjzh"
 
 
 ### Lugar
-Este evento se llevará a cabo en (https://meet.jit.si/bitdevs-lima-001):
+
+Este evento se llevará a cabo en [meet.jit.si/bitdevs-lima-001](https://meet.jit.si/bitdevs-lima-001):
 
 Si quieres que BitDevs sea en tu espacio:  [40230@pm.me](mailto:40230@pm.me)
 
 ### Sugerencias
-- Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda.
-Respeta los diferentes pensamientos e ideas.
+
+- Sé cortés y amable. El objetivo es la búsqueda de una comprensión más profunda. Respeta los diferentes pensamientos e ideas.
 
 - Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min, como máximo.
 
 ### Recordatorios
+
 No fotos, no videos, pero audio recoding = OK
 
 
