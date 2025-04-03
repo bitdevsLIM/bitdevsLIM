@@ -87,3 +87,6 @@ LQWD Technologies anunció la expansión de sus capacidades para incluir stablec
 - Beneficios y desafíos de integrar stablecoins en Lightning Network.
 - Impacto potencial en la adopción de Lightning para pagos cotidianos.
 - Consideraciones de seguridad y regulación en el uso de stablecoins en Lightning.
+
+### 5. Vulnerabilidad en LND (Excessive Failback Bug)
+https://delvingbitcoin.org/t/disclosure-lnd-excessive-failback-exploit/1493
