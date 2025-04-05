@@ -2,7 +2,7 @@
 base_url = "https://bitdevslima.org"
 
 title = "BitDevsLIM"
-description = "BitDevsLIM es una comunidad en Lima para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos y software relacionados."
+description = "BitDevsLIM es una comunidad en Lima para quienes desean discutir y participar en la investigación y el desarrollo de Bitcoin, así como de protocolos y software relacionados."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
