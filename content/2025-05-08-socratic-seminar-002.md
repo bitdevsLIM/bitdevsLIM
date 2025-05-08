@@ -56,6 +56,7 @@ Un argumento a favor de quemar bitcoin en direcciones vulnerables para evitar qu
 - Propiedad: Quemarlas protege a los dueños originales frente a robos cuánticos.
 - Confianza: Evitar que se gasten ayuda a mantener la integridad y seguridad de la red.
 
+Link: [https://blog.lopp.net/against-quantum-recovery-of-bitcoin/](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
 ---
 
 ### 2. DATUM
