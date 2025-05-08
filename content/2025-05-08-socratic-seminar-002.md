@@ -26,21 +26,19 @@ Si quieres que BitDevs sea en tu espacio: [40230@pm.me](mailto:40230@pm.me)
 
 No fotos, no videos, pero audio recoding = OK
 
-
 ### Qué es un seminario socrático de BitDevs?
 
 El seminario socrático de BitDev o Bitcoin developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
 Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en repositorios populares de proyectos como Bitcoin.
 
-
 - Los Seminarios Socráticos se celebran bajo la Regla de **[Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)**:
 - Puedes compartir la información recibida, pero no reveles la identidad de quien la ha dicho.
 - Cuando una reunión, o parte de ella, se celebra bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación del orador u oradores, ni dónde se escuchó la información, ni la de ningún otro participante.
 
-
 [Source](https://bitdevs.org/running-a-great-socratic-seminar/)
 
 #### Estadísticas de la Red
+
 - [mempool.space](https://mempool.space/)
 - [clarkmoody.com](https://bitcoin.clarkmoody.com/dashboard/)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
