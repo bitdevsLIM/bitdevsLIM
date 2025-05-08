@@ -49,28 +49,35 @@ Los temas provienen de varias fuentes, como bitcoinops Optech, pull requests en 
 ### 1. Against Allowing Quantum Recovery of Bitcoin
 
 **Descripción:**
+
 Un argumento a favor de quemar bitcoin en direcciones vulnerables para evitar que los fondos sean tomados por quienes ganen la carrera de la computación cuántica.
 
 **Puntos de discusión:**
+
 - Inflación: Permitir gastar monedas vulnerables podría aumentar la oferta de bitcoin y alterar su valor.
 - Propiedad: Quemarlas protege a los dueños originales frente a robos cuánticos.
 - Confianza: Evitar que se gasten ayuda a mantener la integridad y seguridad de la red.
+
 ---
 
 ### 2. DATUM
-*** Descripción ***
+
+***Descripción**
+
 DATUM (Decentralized Alternative Templates for Universal Mining) es un protocolo desarrollado por OCEAN con el objetivo de devolver a los mineros el control sobre la construcción de bloques en la red de Bitcoin, contrarrestando la creciente centralización en los grandes pools de minería
 
-** Puntos de discusión: **
+**Puntos de discusión:**
+
 - La descentralización real en la construcción de bloques puede entrar en tensión con la eficiencia operativa.
 - Reducción del riesgo de censura por parte de pools centralizados.
 - DATUM representa una apuesta por soluciones prácticas frente al enfoque más estandarizado de Stratum V2.
 
-Link: https://www.ocean.xyz/docs/datum
+Link: [ocean.xyz/docs/datum](https://www.ocean.xyz/docs/datum)
 
 ### 3. OP_CAT
 
 **Descripción:**  
+
 Reactivación de un antiguo opcode eliminado por razones de seguridad. OP_CAT permitiría concatenar elementos en la pila y habilitaría contratos inteligentes más expresivos, acercando a Bitcoin a funcionalidades de scripting más complejas.
 
 **Puntos de discusión:**  
@@ -84,6 +91,7 @@ Reactivación de un antiguo opcode eliminado por razones de seguridad. OP_CAT pe
 ### 4. Covenants
 
 **Descripción:**  
+
 Covenants son restricciones en cómo se puede gastar un UTXO en el futuro. Propuestas como CheckTemplateVerify (CTV), APO o OP_VAULT buscan implementar esta lógica. Permitirían vaults, recuperación de fondos y aplicaciones tipo “smart wallet”.
 
 **Puntos de discusión:**  
@@ -97,6 +105,7 @@ Covenants son restricciones en cómo se puede gastar un UTXO en el futuro. Propu
 ### 5. RUNES y Tokens BRC-20
 
 **Descripción:**  
+
 RUNES es un nuevo protocolo para emitir tokens fungibles en Bitcoin, propuesto como alternativa eficiente y nativa frente al actual estándar BRC-20 que funciona sobre Ordinals. Busca simplicidad y menor carga sobre la red.
 
 **Puntos de discusión:**  
@@ -108,6 +117,7 @@ RUNES es un nuevo protocolo para emitir tokens fungibles en Bitcoin, propuesto c
 ### 6. OP_RETURN size limit
 
 **Descripción:**  
+
 El campo OP_RETURN permite almacenar datos arbitrarios en una transacción de Bitcoin. Su límite actual es de 80 bytes. Recientemente ha resurgido el debate sobre si este límite debería incrementarse para facilitar casos de uso como identidad descentralizada, timestamps o protocolos como OpenTimestamps.
 
 **Puntos de discusión:**  
