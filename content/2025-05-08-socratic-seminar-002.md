@@ -7,7 +7,7 @@ meetup_id = "imyvfrfs"
 
 ### Cronograma
 
-20:00hrs Seminario Socrático  
+19:00hrs Seminario Socrático  
 20:30hrs Cierre y Networking
 
 ### Lugar
@@ -57,18 +57,16 @@ Un argumento a favor de quemar bitcoin en direcciones vulnerables para evitar qu
 - Confianza: Evitar que se gasten ayuda a mantener la integridad y seguridad de la red.
 ---
 
-### 2. OP_RETURN size limit
+### 2. DATUM
+*** Descripción ***
+DATUM (Decentralized Alternative Templates for Universal Mining) es un protocolo desarrollado por OCEAN con el objetivo de devolver a los mineros el control sobre la construcción de bloques en la red de Bitcoin, contrarrestando la creciente centralización en los grandes pools de minería
 
-**Descripción:**  
-El campo OP_RETURN permite almacenar datos arbitrarios en una transacción de Bitcoin. Su límite actual es de 80 bytes. Recientemente ha resurgido el debate sobre si este límite debería incrementarse para facilitar casos de uso como identidad descentralizada, timestamps o protocolos como OpenTimestamps.
+** Puntos de discusión: **
+- La descentralización real en la construcción de bloques puede entrar en tensión con la eficiencia operativa.
+- Reducción del riesgo de censura por parte de pools centralizados.
+- DATUM representa una apuesta por soluciones prácticas frente al enfoque más estandarizado de Stratum V2.
 
-**Puntos de discusión:**  
-
-- ¿Aumentar el límite afecta el tamaño de los bloques y la descentralización?  
-- ¿Qué casos de uso justifican este cambio?  
-- ¿Se pueden lograr objetivos similares fuera de la cadena?
-
----
+Link: https://www.ocean.xyz/docs/datum
 
 ### 3. OP_CAT
 
@@ -96,20 +94,7 @@ Covenants son restricciones en cómo se puede gastar un UTXO en el futuro. Propu
 
 ---
 
-### 5. Silent Payments
-
-**Descripción:**  
-Protocolo para mejorar la privacidad en Bitcoin. Permite que el receptor publique una clave pública única y los emisores generen direcciones únicas por cada pago, sin necesidad de comunicación directa.
-
-**Puntos de discusión:**  
-
-- ¿Cómo se compara con PayNyms o BIP47?  
-- ¿Es viable su implementación a corto plazo?  
-- ¿Qué implicancias tiene para wallets y nodos?
-
----
-
-### 6. RUNES y Tokens BRC-20
+### 5. RUNES y Tokens BRC-20
 
 **Descripción:**  
 RUNES es un nuevo protocolo para emitir tokens fungibles en Bitcoin, propuesto como alternativa eficiente y nativa frente al actual estándar BRC-20 que funciona sobre Ordinals. Busca simplicidad y menor carga sobre la red.
@@ -120,15 +105,13 @@ RUNES es un nuevo protocolo para emitir tokens fungibles en Bitcoin, propuesto c
 - ¿Cuál es el impacto real de los tokens en la red de Bitcoin?  
 - ¿Deben los nodos filtrar o censurar estos usos?
 
----
-
-### 7. ADOPCIÓN EN LATAM
+### 6. OP_RETURN size limit
 
 **Descripción:**  
-El uso de Bitcoin crece en América Latina como respuesta a la inflación, controles de capital y censura financiera. Países como Argentina, Venezuela, El Salvador Y Perú muestran distintas realidades en su adopción.
+El campo OP_RETURN permite almacenar datos arbitrarios en una transacción de Bitcoin. Su límite actual es de 80 bytes. Recientemente ha resurgido el debate sobre si este límite debería incrementarse para facilitar casos de uso como identidad descentralizada, timestamps o protocolos como OpenTimestamps.
 
 **Puntos de discusión:**  
 
-- ¿Qué modelo de adopción es más efectivo: institucional (como El Salvador) o bottom-up (como Argentina)?  
-- ¿Cuál es el rol de los stablecoins frente al BTC en la región?  
-- ¿Cómo promover la auto custodia en contextos vulnerables?
+- ¿Aumentar el límite afecta el tamaño de los bloques y la descentralización?  
+- ¿Qué casos de uso justifican este cambio?  
+- ¿Se pueden lograr objetivos similares fuera de la cadena?
