@@ -60,7 +60,7 @@ Un argumento a favor de quemar bitcoin en direcciones vulnerables para evitar qu
 
 ### 2. DATUM
 
-***Descripción**
+**Descripción**
 
 DATUM (Decentralized Alternative Templates for Universal Mining) es un protocolo desarrollado por OCEAN con el objetivo de devolver a los mineros el control sobre la construcción de bloques en la red de Bitcoin, contrarrestando la creciente centralización en los grandes pools de minería
 
