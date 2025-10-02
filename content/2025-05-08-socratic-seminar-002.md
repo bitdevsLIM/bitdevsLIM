@@ -56,6 +56,7 @@ Un argumento a favor de quemar bitcoin en direcciones vulnerables para evitar qu
 - Propiedad: Quemarlas protege a los dueños originales frente a robos cuánticos.
 - Confianza: Evitar que se gasten ayuda a mantener la integridad y seguridad de la red.
 
+Link: [https://blog.lopp.net/against-quantum-recovery-of-bitcoin/](https://blog.lopp.net/against-quantum-recovery-of-bitcoin/)
 ---
 
 ### 2. DATUM
@@ -71,8 +72,28 @@ DATUM (Decentralized Alternative Templates for Universal Mining) es un protocolo
 - DATUM representa una apuesta por soluciones prácticas frente al enfoque más estandarizado de Stratum V2.
 
 Link: [ocean.xyz/docs/datum](https://www.ocean.xyz/docs/datum)
+---
 
-### 3. OP_CAT
+### 3. Como elegir un buen canal?
+
+**Descripción:**
+Para optimizar el enrutamiento de pagos y la estabilidad de los canales en la red Lightning, es fundamental elegir buenos pares (peers).
+
+
+**Puntos de discusión:**
+
+- Equilibrio entre conectividad y descentralización
+- Canales grandes vs. muchos pequeños: ¿cuál rutea mejor?
+- Tarifas estables mejoran la previsibilidad del enrutamiento.
+- Funciones como MPP o wumbo hacen a un nodo más útil.
+
+Links:
+[https://docs.lightning.engineering/the-lightning-network/the-gossip-network/identify-good-peers](https://docs.lightning.engineering/the-lightning-network/the-gossip-network/identify-good-peers)
+[https://1ml.com/](https://1ml.com/)
+
+---
+
+### 4. OP_CAT
 
 **Descripción:**  
 
@@ -86,7 +107,7 @@ Reactivación de un antiguo opcode eliminado por razones de seguridad. OP_CAT pe
 
 ---
 
-### 4. Covenants
+### 5. Covenants
 
 **Descripción:**  
 
@@ -100,7 +121,7 @@ Covenants son restricciones en cómo se puede gastar un UTXO en el futuro. Propu
 
 ---
 
-### 5. RUNES y Tokens BRC-20
+### 6. RUNES y Tokens BRC-20
 
 **Descripción:**  
 
@@ -112,7 +133,7 @@ RUNES es un nuevo protocolo para emitir tokens fungibles en Bitcoin, propuesto c
 - ¿Cuál es el impacto real de los tokens en la red de Bitcoin?  
 - ¿Deben los nodos filtrar o censurar estos usos?
 
-### 6. OP_RETURN size limit
+### 7. OP_RETURN size limit
 
 **Descripción:**  
 
