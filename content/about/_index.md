@@ -3,7 +3,7 @@ title = "about"
 description = "Todo sobre este sitio"
 +++
 
-BitDevs LIM está inspirado en el original [BitDevs NYC](https://bitdevs.org) para ayudar a desarrollar una
+BitDevs LIM está inspirado en BitDevs Buenos Aires[https://bitdevsba.org/] para ayudar a desarrollar una
 comunidad en el área de Lima con personas interesadas en discutir y participar en la investigación y desarrollo de
 Bitcoin y protocolos y software relacionados. Puedes estar bien versado o ser nuevo en los temas, todos son bienvenidos.
 Ten en cuenta: la discusión será técnica.

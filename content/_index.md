@@ -1,4 +1,4 @@
 +++
-title = "BitDevsLIM"
+title = "BITDEVSLIM"
 sort_by = "date"
 +++

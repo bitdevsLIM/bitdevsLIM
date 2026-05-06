@@ -3,10 +3,9 @@ title = "Supporters"
 description = "Our supporters"
 +++
 
-Un agradecimiento especial a nuestros colaboradores.
 
-<br>
-<br>
+
+
 
 <a href="https://libreriadesatoshi.com/">
 <img src="/libre_sato_logo.png" alt="Libreria de satoshi Logo" style="width:20%;height:20%;border:0;">
@@ -14,3 +13,11 @@ Un agradecimiento especial a nuestros colaboradores.
 
 [Libreria de Satoshi](https://libreriadesatoshi.com/) - La Librería de Satoshi es una iniciativa educativa que busca formar contribuidores técnicos de Bitcoin en
 América Latina y el Caribe a través de cursos y seminarios en español.
+
+<br>
+
+<p><strong>¡Apoya nuestro evento!</strong> Puedes contribuir aquí: <a href="https://geyser.fund/project/bitdevslima" target="_blank">https://geyser.fund/project/bitdevslima</a></p>
+
+Un agradecimiento especial a nuestros colaboradores.
+
+<br>

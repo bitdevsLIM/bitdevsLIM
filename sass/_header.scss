@@ -16,6 +16,7 @@
 
   &-logo {
     font-size: 2.2rem;
+    font-weight: bold;
 
     @media (max-width: $small-screen) {
       font-size: 1.8rem;
@@ -31,12 +32,12 @@
     }
 
     a {
-      color: #333;
-      opacity: 0.4;
+      color: $primary-color;
+      opacity: 1;
       margin-left: 1.5rem;
 
       &:hover {
-        color: $primary-color;
+        color: rgba($primary-color, 0.8);
         opacity: 1;
       }
     }
