@@ -1,4 +1,7 @@
-# BitdevsLIM
+
+# BitDevsLIM
+
+BitDevsLIM is the Lima, Peru chapter of BitDevs, a community for those interested in discussing and learning about Bitcoin and related technologies. The group hosts regular Socratic Seminars and meetups focused on technical topics, open discussion, and fostering local connections among Bitcoin enthusiasts, developers, and researchers.
 
 Simple Zola site for hosting all of the links from meetups past and future.
 
