@@ -36,6 +36,9 @@ El foco de BitDevs es **100% técnico**. Si recién estás comenzando a conocer 
 - **Privacy-Preserving Batch Oracles con BITDMX**: Revisión del paper “Hierarchical Proofs via Accumulate and zkSTARK” — oráculos en batch con privacidad, selective disclosure y anclaje en Bitcoin.  
   → [Paper en GitHub](https://github.com/SatoshiShalom/BitDMX)
 
+- **Vulnerabilidad en bitcoin core**: Vulnerabilidad que podría permitir en el peor de los casos ejecución de código remota en nodos. Solución introducida en v29. 
+   [CVE-2024-52911](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
+
 - **Quantum-Safe Bitcoin Transactions Without Softforks**: Propuesta para transacciones resistentes a computadoras cuánticas sin requerir soft-fork.  
   → [Repositorio](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
 
