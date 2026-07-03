@@ -52,7 +52,7 @@ BitDevs Lima es un espacio enfocado en Bitcoin. Pueden discutirse tecnologías r
 
 Si deseas presentar en un futuro Seminario Socrático o proponer un tema de discusión, puedes contactar a los organizadores por correo:
 
-**[bitdevslim@gmail.com](mailto:bitdevslim@gmail.com)**
+**[40230@pm.me](mailto:40230@pm.me)**
 
 También puedes sugerir temas mediante el repositorio del sitio, abriendo un pull request o dejando un comentario en la propuesta del evento correspondiente.
 
@@ -104,7 +104,7 @@ Un moderador de BitDevs Lima debe:
 
 Quienes deseen aplicar como moderadores pueden escribir a:
 
-**[bitdevslim@gmail.com](mailto:bitdevslim@gmail.com)**
+**[40230@pm.me](mailto:40230@pm.me)**
 
 El mensaje debe incluir:
 
