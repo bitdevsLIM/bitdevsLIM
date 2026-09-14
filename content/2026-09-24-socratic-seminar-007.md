@@ -1,6 +1,8 @@
 +++
 title = "BitdevsLIM Seminario Socrático #07"
 template = "post.html"
+[extra]
+luma_id = "l0561n87"
 +++
 
 ### Fecha y horario

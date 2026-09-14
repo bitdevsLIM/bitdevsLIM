@@ -2,7 +2,7 @@
 title = "BitdevsLIM Seminario Socrático #05"
 template = "post.html"
 [extra]
-meetup_id = "vvhzd4jn"
+luma_id = "vvhzd4jn"
 +++
 
 ### Lugar

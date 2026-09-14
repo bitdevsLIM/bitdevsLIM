@@ -2,7 +2,7 @@
 title = "BitdevsLIM Seminario Socrático #02"
 template = "post.html"
 [extra]
-meetup_id = "imyvfrfs"
+luma_id = "imyvfrfs"
 +++
 
 ### Cronograma

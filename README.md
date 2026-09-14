@@ -25,7 +25,7 @@ following information:
 title = "<title goes here>"
 template = "post.html"
 [extra]
-meetup_id = "<optional meetup id goes here>"
+luma_id = "<optional Luma id goes here>"
 +++
 ```
 
