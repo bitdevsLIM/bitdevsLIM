@@ -1,8 +1,9 @@
 +++
-title = "BitdevsLIM Seminario Socrático #04"
+title = "BITDEVSLIM Seminario Socrático #04"
 template = "post.html"
 [extra]
 luma_id = "4kqbrzom"
+cover = "/covers/004.avif"
 +++
 
 ### Lugar

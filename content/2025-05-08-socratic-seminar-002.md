@@ -1,8 +1,9 @@
 +++
-title = "BitdevsLIM Seminario Socrático #02"
+title = "BITDEVSLIM Seminario Socrático #02"
 template = "post.html"
 [extra]
 luma_id = "imyvfrfs"
+cover = "/covers/002.avif"
 +++
 
 ### Cronograma

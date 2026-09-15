@@ -44,19 +44,28 @@
 
                 <div class="Home-posts">
                     <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+                    <div class="Home-posts-grid">
                     {% for page in section.pages %}
-                    <div class="Home-posts-post">
-                        <span class="Home-posts-post-date"
-                            >{{ page.date | date(format="%Y-%m-%d") }}</span
-                        >
-                        <span class="Home-posts-post-arrow">&raquo;</span>
-                        <a
-                            class="Home-posts-post-title"
-                            href="{{ page.permalink }}"
-                            >{{ page.title }}</a
-                        >
-                    </div>
+                    <article class="Home-posts-post">
+                        <a class="Home-posts-post-link" href="{{ page.permalink }}">
+                            <img
+                                class="Home-posts-post-cover"
+                                src="{{ page.extra.cover }}"
+                                alt="Portada de {{ page.title }}"
+                                loading="lazy"
+                            />
+                            <div class="Home-posts-post-info">
+                                <time
+                                    class="Home-posts-post-date"
+                                    datetime="{{ page.date | date(format="%Y-%m-%d") }}"
+                                    >{{ page.date | date(format="%Y-%m-%d") }}</time
+                                >
+                                <h3 class="Home-posts-post-title">{{ page.title }}</h3>
+                            </div>
+                        </a>
+                    </article>
                     {% endfor %}
+                    </div>
                 </div>
             </div>
             {% endblock content %}
