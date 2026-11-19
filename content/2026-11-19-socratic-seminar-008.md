@@ -67,3 +67,39 @@ Este evento se realizará de forma presencial en **Av. Paseo de la República 63
    Analizaremos la salida reportada de aproximadamente 18.270 BTC y otros activos desde billeteras calientes de Binance. La actualización inicial de Binance atribuyó el incidente a una autorización maliciosa EIP-7702 en una billetera de Ethereum; otras reconstrucciones describen el compromiso de procesos internos de firma mediante ingeniería social. Separaremos los hechos confirmados de las hipótesis sobre el acceso inicial y discutiremos cómo límites de autorización, demoras, monitoreo y controles fuera de banda pueden reducir el impacto.
 
    Recursos: [actualización de Binance](https://www.binance.com/en/square/post/384328127385979) y [explicación de EIP-7702](https://eips.ethereum.org/EIPS/eip-7702).
+
+6. **El bug de SIGHASH_SINGLE y firmas cortas para pubkeys "artificiales"**
+
+   En scripts *legacy*, si un input firmado con `SIGHASH_SINGLE` no tiene un output con su mismo índice, `SignatureHash` devuelve la constante `1` en lugar de un hash de la transacción. Como el mensaje firmado ya no depende de nada, se puede elegir primero una firma muy corta y luego derivar una pubkey para la que esa firma es válida, sin que nadie conozca la llave privada. Revisaremos un caso real: inputs P2PK de 1.800 sats gastados el 13 de noviembre (bloque 975.743) con una firma de apenas 41 bytes.
+
+   **Ángulo:** por qué este bug sigue en consenso desde la versión original de Satoshi; por qué SegWit v0 y Taproot no lo heredan; qué pasa con cualquier moneda enviada a una de estas pubkeys; y qué otras "rarezas" de scripts *legacy* sigue cargando el protocolo.
+
+   Recursos: [hilo de mononaut](https://x.com/mononautical/status/2121503248263823682) y [transacción en mempool.space](https://mempool.space/tx/82d3bb7791933a0c557b8216804f82826f5172a082ccba39ea4b5cb4e45e11d5).
+
+7. **Tres CVE de Bitcoin Core divulgados el 10 de noviembre**
+
+   - **CVE-2025-62861 (severidad alta):** un *reorg* combinado con el *sibling eviction* de transacciones TRUC podía corromper el mempool y dejar a un minero sin poder construir plantillas de bloque hasta reiniciar. Afecta las versiones 28.0 a 29.1; está corregido en 29.2 y 30.0.
+   - **CVE-2025-62860 (severidad media):** los peers entrantes por Tor recibían por error los permisos de `-whitelist`.
+   - **CVE-2025-62859 (severidad media):** un peer podía retrasar el procesamiento de un *compact block*.
+
+   Discutiremos cómo interactúan las nuevas reglas de política de mempool con los *reorgs*, y cómo funciona el proceso de divulgación responsable de Bitcoin Core.
+
+   Recursos: [aviso de CVE-2025-62861](https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/) y [resumen en Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/11/13/).
+
+8. **BIP de firmas anti-exfiltración**
+
+   Una propuesta de protocolo de dos rondas para firmas Schnorr y ECDSA en el que el *host* aporta aleatoriedad al nonce y verifica que el dispositivo de firma realmente la usó, junto con nuevos campos PSBT. El objetivo es que un firmware malicioso no pueda filtrar la llave privada escondiéndola en los nonces de las firmas. Complementa el tema del ataque a Ledger: ¿qué ataques mitiga y cuáles no, como un implante que captura la frase de recuperación en pantalla?
+
+   Recursos: [propuesta en la lista bitcoindev](https://mailing-list.bitcoindevs.xyz/bitcoindev/CAOuFX60em-d=JW+FmQe6G6mP58Gs6kpwuRwVLC5nwT8oO9HsXg@mail.gmail.com/) y [implementación de referencia](https://github.com/AvilaLabs/anti-exfil).
+
+9. **Por qué fallaba la reconstrucción de *compact blocks***
+
+   Entre julio y octubre casi ningún bloque se podía reconstruir sin pedir transacciones adicionales a los peers. Las transacciones que faltaban eran cadenas de *mints* de runas con outputs P2A que se empujaban a la red sin pasar por el flujo normal de `inv`/`getdata`. El empuje se detuvo el 18 de octubre y la tasa de reconstrucción se recuperó ese mismo día. Discutiremos qué nos dice esto sobre la propagación de bloques y la importancia de que los mempools de los nodos se parezcan a lo que minan los pools.
+
+   Recursos: [estadísticas de 0xB10C en Delving Bitcoin](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/63) y [resumen en Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/11/13/).
+
+10. **Testnet5 ya tiene bloque génesis (BIP 95)**
+
+    BIP 95 pasó a estado *Deployed* el 17 de noviembre. El génesis de testnet5 se compromete con el bloque 975.744 de mainnet, no tiene la excepción de dificultad mínima que tenían testnet3 y testnet4, y activa BIP 54 (*Consensus Cleanup*) desde el bloque 1. Discutiremos qué se aprendió de las testnets anteriores y si esta vez el diseño evitará los mismos abusos.
+
+    Recursos: [BIP 95](https://bips.dev/95/) y [anuncio en la lista bitcoindev](https://groups.google.com/g/bitcoindev/c/DmFiHeo-xRw).
